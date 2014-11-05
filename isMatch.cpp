@@ -1,4 +1,4 @@
-//copy from url
+//copy from url http://blog.csdn.net/pickless/article/details/9043389
 class Solution {
 public:
     bool isMatch(const char *s, const char *p) {
