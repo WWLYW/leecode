@@ -18,7 +18,6 @@ public:
                         if ( result[i][j] > 0) continue;
                         if (i == 1 || j == 1){
                                 result[i][j] = 1;
-                                result[j][i] = 1;
                         }       
                         else{   
                                 result[i][j] = result[i][j-1] + result[i-1][j];
