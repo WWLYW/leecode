@@ -1,4 +1,5 @@
 //copy from url http://blog.csdn.net/pickless/article/details/9043389
+//递归里再递归
 class Solution {
 public:
     bool isMatch(const char *s, const char *p) {
