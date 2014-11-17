@@ -7,7 +7,7 @@ A solution using O(n) space is pretty straight forward. Could you devise a const
 
 confused what "{1,#,2,3}" means? > read more on how binary tree is serialized on OJ.
 */
-
+//利用中序遍历就是从小到大的有序数组
 #include <iostream>
 #include <map>
 using namespace std;
