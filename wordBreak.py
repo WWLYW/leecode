@@ -9,6 +9,7 @@ Return true because "leetcode" can be segmented as "leet code".
 
 Subscribe to see which companies asked this question
 """
+
 class Solution(object):
     def wordBreak(self, s, wordDict):
         """
